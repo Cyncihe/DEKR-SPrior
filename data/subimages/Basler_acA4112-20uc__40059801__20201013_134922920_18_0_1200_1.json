@@ -1,0 +1,250 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "4-0",
+      "points": [
+        [
+          243.34693877551018,
+          239.18367346938774
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "4-1",
+      "points": [
+        [
+          231.1020408163265,
+          279.1836734693877
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "4-2",
+      "points": [
+        [
+          204.1632653061224,
+          310.61224489795916
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "4-3",
+      "points": [
+        [
+          167.4285714285714,
+          328.97959183673464
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "3-0",
+      "points": [
+        [
+          259.265306122449,
+          375.51020408163265
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "3-1",
+      "points": [
+        [
+          238.4489795918367,
+          412.2448979591836
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "3-2",
+      "points": [
+        [
+          204.57142857142856,
+          443.67346938775506
+        ]
+      ],
+      "group_id": 2,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "3-1",
+      "points": [
+        [
+          272.3265306122449,
+          448.57142857142856
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "3-2",
+      "points": [
+        [
+          291.5102040816326,
+          483.2653061224489
+        ]
+      ],
+      "group_id": 3,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-0",
+      "points": [
+        [
+          210.28571428571428,
+          209.79591836734693
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-1",
+      "points": [
+        [
+          166.61224489795916,
+          219.99999999999997
+        ]
+      ],
+      "group_id": 4,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-0",
+      "points": [
+        [
+          195.1836734693877,
+          164.0816326530612
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-1",
+      "points": [
+        [
+          180.0816326530612,
+          184.48979591836732
+        ]
+      ],
+      "group_id": 5,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-0",
+      "points": [
+        [
+          200.4897959183673,
+          75.51020408163265
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-1",
+      "points": [
+        [
+          215.59183673469386,
+          114.28571428571428
+        ]
+      ],
+      "group_id": 6,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-0",
+      "points": [
+        [
+          159.67346938775506,
+          138.3673469387755
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-1",
+      "points": [
+        [
+          140.89795918367344,
+          178.36734693877548
+        ]
+      ],
+      "group_id": 7,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-0",
+      "points": [
+        [
+          117.63265306122446,
+          122.85714285714285
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "2-1",
+      "points": [
+        [
+          81.7142857142857,
+          150.20408163265304
+        ]
+      ],
+      "group_id": 8,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "0-2",
+      "points": [
+        [
+          151.1020408163265,
+          49.795918367346935
+        ]
+      ],
+      "group_id": 9,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Basler_acA4112-20uc__40059801__20201013_134922920_18_0_1200_1.jpg",
+  "imageData": null,
+  "imageHeight": 545,
+  "imageWidth": 545
+}
